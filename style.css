@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Barrio&display=swap');
+p{
+    font-size: 24px;
+    color: red;
+}
+.paragrafo{
+    font-size: 35px;
+    color: blue;
+}
+#vilma{
+    font-size: 40px;
+    color: green;
+}
+#podre{
+    font-family: "Barrio", system-ui;
+    font-size: 60px;
+    color: blueviolet;
+    background-color: aqua;
+    color: white;
+    text-align: justify;
+    letter-spacing: 5px;
+    text-decoration: ;
+    line-height: 80px;
+}
+#caixa{
+    background-color: brown;
+    height: 40vh;
+    width: 50vh;
+    border: 50vh;
+    word-spacing: 5px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
+/* p */
+/* class é ponto e id é #/*
+/* color/*
+/* backgroud-color*/
+/* text-align* /
